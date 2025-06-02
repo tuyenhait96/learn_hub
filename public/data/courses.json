@@ -1,0 +1,77 @@
+[
+  {
+    "id": "course-1",
+    "title": "Lập Trình JavaScript Cơ Bản",
+    "description": "Tìm hiểu các khái niệm cơ bản về JavaScript.",
+    "videoIntroUrl": "https://www.youtube.com/embed/PkZNo7MFNFg",
+    "document": {
+      "type": "text",
+      "content": "JavaScript là một ngôn ngữ lập trình phổ biến dùng để phát triển web. Bạn có thể dùng nó để xử lý sự kiện, tương tác DOM và giao tiếp API."
+    },
+    "price": 12.2,
+    "videos": [
+      {
+        "id": "vid-1",
+        "title": "Bài 1 - Giới thiệu khái niệm cơ bản",
+        "url": "https://www.youtube.com/embed/PkZNo7MFNFg",
+        "description": "Tìm hiểu các khái niệm cơ bản."
+      },
+      {
+        "id": "vid-2",
+        "title": "Bài 2 - React cơ bản: JSX, Component",
+        "url": "https://www.youtube.com/embed/Ke90Tje7VS0",
+        "description": "Tìm hiểu React cơ bản: JSX, Component."
+      }
+    ]
+  },
+  {
+    "id": "course-2",
+    "title": "ReactJS Cho Người Mới Bắt Đầu nấu ăn",
+    "description": "Học khái niệm.",
+    "videoIntroUrl": "https://www.youtube.com/embed/bMknfKXIFA8",
+    "document": {
+      "type": "pdf",
+      "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+    },
+    "price": 12.2,
+    "videos": [
+      {
+        "id": "vid-1",
+        "title": "Bài 1 - Giới thiệu khái niệm cơ bản",
+        "url": "https://www.youtube.com/embed/PkZNo7MFNFg",
+        "description": "Tìm hiểu các khái niệm cơ bản."
+      },
+      {
+        "id": "vid-2",
+        "title": "Bài 2 - Vệ sinh an toàn thực phẩm",
+        "url": "https://www.youtube.com/embed/Ke90Tje7VS0",
+        "description": "Tìm hiểu vệ sinh an toàn thực phẩm."
+      }
+    ]
+  },
+  {
+    "id": "course-3",
+    "title": "ReactJS Cho Người Mới Bắt Đầu nấu ăn",
+    "description": "Học khái niệm.",
+    "videoIntroUrl": "https://www.youtube.com/embed/bMknfKXIFA8",
+    "document": {
+      "type": "pdf",
+      "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+    },
+    "price": 12.2,
+    "videos": [
+      {
+        "id": "vid-1",
+        "title": "Bài 1 - Giới thiệu khái niệm cơ bản",
+        "url": "https://www.youtube.com/embed/PkZNo7MFNFg",
+        "description": "Tìm hiểu các khái niệm cơ bản."
+      },
+      {
+        "id": "vid-2",
+        "title": "Bài 2 - Vệ sinh an toàn thực phẩm",
+        "url": "https://www.youtube.com/embed/Ke90Tje7VS0",
+        "description": "Tìm hiểu vệ sinh an toàn thực phẩm."
+      }
+    ]
+  }
+]
