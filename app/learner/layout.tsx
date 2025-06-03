@@ -22,13 +22,13 @@ export default function LearnedLayout({
           </Link>
           <div>
             <Link
-              href={"learner/courses/purchased"}
+              href={"/learner/my-courses"}
               className="text-gray-700 hover:text-blue-600 mx-2"
             >
               My Course
             </Link>
             <Button
-            variant={'ghost'}
+              variant={'ghost'}
               onClick={logout}
               className="text-gray-700 hover:text-blue-600"
             >
